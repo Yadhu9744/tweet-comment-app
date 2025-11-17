@@ -1,0 +1,9 @@
+{
+  "comments": [
+    {"id": "1", "text": "Nice!", "author": "userA"},
+    {"id": "2", "text": "This is a longer comment that should be red flagged", "author": "userB"},
+    {"id": "3", "text": "Ok", "author": "userC"},
+    {"id": "4", "text": "Another lengthy reply from someone", "author": "userD"},
+    {"id": "5", "text": "Hi!", "author": "userE"}
+  ]
+}
